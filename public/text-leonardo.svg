@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="682.8" height="179" viewBox="0 0 682.8 179">
+  <g id="Grupo_4" data-name="Grupo 4" transform="translate(-146 -1169)">
+    <text id="Hello_my_name_is" data-name="Hello, my name is" transform="translate(151 1193)" fill="#1D00ED" font-size="22" font-family="Open Sans" font-weight="600"><tspan x="0" y="0">HELLO, </tspan><tspan y="0" fill="#747579">MY NAME IS</tspan></text>
+    <text id="Im_UX_UI_Designer" data-name="Im,  UX / UI Designer" transform="translate(151 1341)" fill="#1D00ED" font-size="24" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="0" y="0" xml:space="preserve">Im,  UX / UI Designer</tspan></text>
+    <g id="Grupo_3" data-name="Grupo 3">
+      <text id="Leonardo" transform="translate(146 1300)" fill="#1D00ED" font-size="74" font-family="BMWMotorrad-Bold, BMW Motorrad" font-weight="700"><tspan x="0" y="0">LEONARDO</tspan></text>
+      <text id="Pérez" transform="translate(587 1300)" fill="#fff" stroke="#1D00ED" stroke-width="0.8" font-size="74" font-family="BMWMotorrad-Bold, BMW Motorrad" font-weight="700"><tspan x="0" y="0">PÉREZ</tspan></text>
+    </g>
+  </g>
+</svg>
