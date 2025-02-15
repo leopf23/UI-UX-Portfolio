@@ -5,6 +5,7 @@ import 'animate.css';
 export default function banner() {
   return (
     <div className="scroll-snap-item">
+      {/* <div className="bg-[url('/../back.svg')] bg-[length:86%_auto] bg-[position:-34px_80px] bg-no-repeat"> */}
       <div className="bg-[url('/../back.svg')] bg-[length:86%_auto] bg-[position:-34px_80px] bg-no-repeat">
         <div className="dark:bg-blueDark p-5 md:p-40 w-full h-[900px] text-center">
           <div className="mx-auto w-auto h-[250px]">
