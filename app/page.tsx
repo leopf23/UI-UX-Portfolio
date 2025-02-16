@@ -7,6 +7,7 @@ import About from "./about";
 import Skill from "./skill";
 import CardPortafolio from "./cardPortafolio";
 import { MoonIcon } from "@heroicons/react/24/outline";
+import Spline from "@splinetool/react-spline";
 
 
 export default function Home() {
@@ -35,10 +36,12 @@ export default function Home() {
     <main className="bg-white dark:bg-blueDark">
       <HeaderUi />
       <div>
+            <Spline scene="https://prod.spline.design/SXvhdUOum7pV5iU4/scene.splinecode"/>
         <div className="h-screen scroll-snap-container">
           {/* Img Banner Text */}
           <div id="banner">
-           <Banner />
+           {/* <Banner /> */}
+           
           </div>
 
           {/* About me */}
